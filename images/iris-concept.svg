@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Concept diagram: camera, recognition, alerts, mobile monitoring">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141b34"/><stop offset="1" stop-color="#1d2750"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <g stroke="#2e3a6e" stroke-width="1"><path d="M0 100h800M0 200h800M0 300h800M0 400h800M100 0v500M200 0v500M300 0v500M400 0v500M500 0v500M600 0v500M700 0v500" opacity=".35"/></g>
+  <g font-family="system-ui,Segoe UI,Arial,sans-serif" text-anchor="middle" fill="#e8ecff">
+    <g transform="translate(40,150)"><rect width="150" height="130" rx="18" fill="#232d5c" stroke="#7b8cff" stroke-width="2"/>
+      <circle cx="75" cy="52" r="24" fill="none" stroke="#7b8cff" stroke-width="4"/><circle cx="75" cy="52" r="8" fill="#7b8cff"/>
+      <text x="75" y="104" font-size="17" font-weight="600">Camera</text></g>
+    <g transform="translate(225,150)"><rect width="150" height="130" rx="18" fill="#232d5c" stroke="#7b8cff" stroke-width="2"/>
+      <rect x="45" y="30" width="60" height="44" rx="10" fill="none" stroke="#7fe3c3" stroke-width="4"/><circle cx="62" cy="50" r="4" fill="#7fe3c3"/><circle cx="88" cy="50" r="4" fill="#7fe3c3"/>
+      <text x="75" y="104" font-size="17" font-weight="600">Recognition</text></g>
+    <g transform="translate(410,150)"><rect width="150" height="130" rx="18" fill="#232d5c" stroke="#7b8cff" stroke-width="2"/>
+      <path d="M75 28a22 22 0 0 1 22 22v18l8 10H45l8-10V50a22 22 0 0 1 22-22z" fill="none" stroke="#ffd37a" stroke-width="4" stroke-linejoin="round"/>
+      <text x="75" y="104" font-size="17" font-weight="600">Alerts</text></g>
+    <g transform="translate(595,150)"><rect width="165" height="130" rx="18" fill="#232d5c" stroke="#7b8cff" stroke-width="2"/>
+      <rect x="62" y="24" width="40" height="64" rx="8" fill="none" stroke="#7b8cff" stroke-width="4"/>
+      <text x="82" y="116" font-size="17" font-weight="600">Mobile</text></g>
+    <g stroke="#7b8cff" stroke-width="3" stroke-dasharray="6 6" fill="none"><path d="M190 215h35M375 215h35M560 215h35"/></g>
+    <rect x="215" y="340" width="370" height="58" rx="29" fill="#fff1cc" opacity=".12" stroke="#ffd37a" stroke-width="2" stroke-dasharray="6 5"/>
+    <text x="400" y="366" font-size="18" font-weight="700" fill="#ffd37a">Concept only: not a built system</text>
+    <text x="400" y="387" font-size="14" fill="#c4cbea">No screenshot available yet</text>
+  </g>
+</svg>
